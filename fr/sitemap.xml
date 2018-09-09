@@ -3,138 +3,138 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
-    <loc>https://example.org/fr/blog/</loc>
+    <loc>https://kisampang.github.io/fr/blog/</loc>
     <lastmod>2018-09-09T15:49:58+07:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="https://example.org/en/blog/"
+                href="https://kisampang.github.io/en/blog/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="fr"
-                href="https://example.org/fr/blog/"
+                href="https://kisampang.github.io/fr/blog/"
                 />
   </url>
   
   <url>
-    <loc>https://example.org/fr/blog/are-you-doing-the-right-way/</loc>
+    <loc>https://kisampang.github.io/fr/blog/are-you-doing-the-right-way/</loc>
     <lastmod>2018-09-09T15:49:58+07:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="https://example.org/en/blog/are-you-doing-the-right-way/"
+                href="https://kisampang.github.io/en/blog/are-you-doing-the-right-way/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="fr"
-                href="https://example.org/fr/blog/are-you-doing-the-right-way/"
+                href="https://kisampang.github.io/fr/blog/are-you-doing-the-right-way/"
                 />
   </url>
   
   <url>
-    <loc>https://example.org/fr/contact/</loc>
+    <loc>https://kisampang.github.io/fr/contact/</loc>
     <lastmod>2018-09-09T15:49:58+07:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="https://example.org/en/contact/"
+                href="https://kisampang.github.io/en/contact/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="fr"
-                href="https://example.org/fr/contact/"
+                href="https://kisampang.github.io/fr/contact/"
                 />
   </url>
   
   <url>
-    <loc>https://example.org/fr/portfolio/</loc>
+    <loc>https://kisampang.github.io/fr/portfolio/</loc>
     <lastmod>2018-09-09T15:49:58+07:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="https://example.org/en/portfolio/"
+                href="https://kisampang.github.io/en/portfolio/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="fr"
-                href="https://example.org/fr/portfolio/"
+                href="https://kisampang.github.io/fr/portfolio/"
                 />
   </url>
   
   <url>
-    <loc>https://example.org/fr/service/</loc>
+    <loc>https://kisampang.github.io/fr/service/</loc>
     <lastmod>2018-09-09T15:49:58+07:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="https://example.org/en/service/"
+                href="https://kisampang.github.io/en/service/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="fr"
-                href="https://example.org/fr/service/"
+                href="https://kisampang.github.io/fr/service/"
                 />
   </url>
   
   <url>
-    <loc>https://example.org/fr/about/</loc>
+    <loc>https://kisampang.github.io/fr/about/</loc>
     <lastmod>2018-09-09T15:49:58+07:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="https://example.org/en/about/"
+                href="https://kisampang.github.io/en/about/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="fr"
-                href="https://example.org/fr/about/"
+                href="https://kisampang.github.io/fr/about/"
                 />
   </url>
   
   <url>
-    <loc>https://example.org/fr/categories/</loc>
+    <loc>https://kisampang.github.io/fr/categories/</loc>
     <priority>0</priority>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="https://example.org/en/categories/"
+                href="https://kisampang.github.io/en/categories/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="fr"
-                href="https://example.org/fr/categories/"
+                href="https://kisampang.github.io/fr/categories/"
                 />
   </url>
   
   <url>
-    <loc>https://example.org/fr/</loc>
+    <loc>https://kisampang.github.io/fr/</loc>
     <lastmod>2018-09-09T15:49:58+07:00</lastmod>
     <priority>0</priority>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="https://example.org/en/"
+                href="https://kisampang.github.io/en/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="fr"
-                href="https://example.org/fr/"
+                href="https://kisampang.github.io/fr/"
                 />
   </url>
   
   <url>
-    <loc>https://example.org/fr/tags/</loc>
+    <loc>https://kisampang.github.io/fr/tags/</loc>
     <priority>0</priority>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="https://example.org/en/tags/"
+                href="https://kisampang.github.io/en/tags/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="fr"
-                href="https://example.org/fr/tags/"
+                href="https://kisampang.github.io/fr/tags/"
                 />
   </url>
   
